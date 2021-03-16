@@ -1,4 +1,3 @@
-![Test library workflow status](https://github.com/shrey6162/Questionnaire.github.io/workflows/Test%20library/badge.svg)
 # Questionnaire
 The ‘QUESTIONNAIRE’ project was developed to overcome the time-consuming problem of the manual system. Apart from that in the current system, checking the answer sheets after taking a test, waste the examiner's time, so this application will check the correct answer and save the examiner's time and carry the examination effectively. The users which are using this system don’t need high computing knowledge and also the system will inform them while entering invalid data. The aim of this project is to computerized the existing manual system and help the examiners to save their valuable time and important data. Apart from this, data which are exist in this system, will exist for long period of time and will be easy accessible. This project helps the examiners to manage their services in a good way and provide a better service to their users.
 
@@ -8,24 +7,25 @@ The ‘QUESTIONNAIRE’ project was developed to overcome the time-consuming pro
 ---------------------------------------------------------------------------------------------------------------------------------
 
 <h2 align="center">Project Report</h2>
+
 ## Index
 
-* [Introduction](# Introduction)
-* [Objective](# Objective)
-* [Overview](# Overview)
-* [Layout Analysis ](# Layout Analysis )
-* [Feasibility study ](# Feasibility study)
-* [Existing System](# Existing System)
-* [Approach](# Approach)
-* [Used Case Diagram](# Used Case Diagram)
-* [Activity Flow Diagram](# Activity Flow Diagram)
-* [Entity Relationship Diagram](# Entity Relationship Diagram)
-* [Requirement Analysis](# Requirement Analysis)
-* [Features of Proposed System](# Features of Proposed System)
-* [Technologies Used](# Technologies Used)
-* [Module Description](# Module Description)
-* [Scope of Development](# Scope of Development)
-* [Conclusion](# Conclusion)
+* [Introduction](#introduction)
+* [Objective](#objective)
+* [Overview](#overview)
+* [Layout Analysis ](#layout-analysis )
+* [Feasibility Study ](#feasibility-study)
+* [Existing System](#existing-system)
+* [Approach](#approach)
+* [Used Case Diagram](#used-case-diagram)
+* [Activity Flow Diagram](#activity-flow-diagram)
+* [Entity Relationship Diagram](#entity-relationship-diagram)
+* [Requirement Analysis](#requirement-analysis)
+* [Features of Proposed System](#features-of-proposed-system)
+* [Technologies Used](#technologies-used)
+* [Module Description](#module-description)
+* [Scope of Development](#scope-of-development)
+* [Conclusion](#conclusion)
 
 
 ### Introduction
@@ -43,29 +43,27 @@ The ‘QUESTIONNAIRE’ project was developed to overcome the time-consuming pro
 
 
 ### Objective
-<p>
 The basic objective of this project is to manage the details of students, examinations, marks, courses and papers in a good manner. The performance of the application will be fully control by administrator and administrator can guaranty any one to access. The project will reduce the manual process in managing examinations and all issues regarding that. 
 
-Scope 
-Scope of this project is very broad in terms of other manually taking exams. 
-Few of them are: - 
-• This can be used in educational institutions as well as in corporate world. 
-• Can be used anywhere any time as it is a web-based application (user Location doesn’t matter). 
-• No restriction that examiner has to be present when the candidate takes the test. 
+Scope <br>
+Scope of this project is very broad in terms of other manually taking exams. <br>
+Few of them are: - <br>
+• This can be used in educational institutions as well as in corporate world. <br>
+• Can be used anywhere any time as it is a web-based application (user Location doesn’t matter). <br>
+• No restriction that examiner has to be present when the candidate takes the test. <br>
+<br>
+Features <br>
+• Secure <br>
+• Easy to use <br>
+• Reliable and accurate <br>
+• No need of examiner <br><br>
 
-Features 
-• Secure 
-• Easy to use 
-• Reliable and accurate 
-• No need of examiner 
-
-Functionalities of the project will be as following: 
-• Able the examiners to punch the MCQ questions online; 
-• Able the users to solve the questions online; 
-• Examiners can manage the information regarding exam; 
-• Correct answer will be evaluated by the system (First it should be determined by examiner) 
-• Users can see their result after submitting the test. 
-</p>
+Functionalities of the project will be as following: <br>
+• Able the examiners to punch the MCQ questions online; <br>
+• Able the users to solve the questions online; <br>
+• Examiners can manage the information regarding exam; <br>
+• Correct answer will be evaluated by the system (First it should be determined by examiner) <br>
+• Users can see their result after submitting the test. <br>
 
 **[⬆ Back to Index](#index)**
 
@@ -75,18 +73,18 @@ To design and implement this project we plan that the project support to differe
 
 The Questionnaire created for taking online quizzes has following stages- 
 
-➢ Student Portal- 
-• Login / SignUp 
-• Test 
-• Result 
-• Ranking’s 
-• Feedback 
+➢ Student Portal- <br>
+• Login / SignUp <br>
+• Test <br>
+• Result <br>
+• Ranking’s <br>
+• Feedback <br>
 
-➢ Quiz Master/Admin Portal- 
-• Add / Edit Quiz 
-• Student Information 
-• Ranking’s 
-• Feedback Response 
+➢ Quiz Master/Admin Portal- <br>
+• Add / Edit Quiz <br>
+• Student Information <br>
+• Ranking’s <br>
+• Feedback Response <br>
 
 
 **[⬆ Back to Index](#index)**
@@ -96,18 +94,18 @@ The Questionnaire created for taking online quizzes has following stages-
 
 To conclude introduction, we have used these modules to follow the objectives of our project and each of these modules have logical connections to other modules which they are depend. 
 
-• Index: Which allow users to select their type of login to system; 
-• Teacher Login: Able the teachers to login to system with a valid user name and password. If a teacher is successfully login to system, he/she will have access to following pages: 
-• Teacher Home: Which have information about Online MCQ Quiz and issues support by this system for the teachers; 
-• Punch Test: Which able the teacher to punch a test and after entering the test name and clicking on ‘Submit to Enter Questions’, teacher will be able to add questions to the particular test. 
-• Students Marks: Which able the teacher to observe the result of all student who have attempt the tests; 
-• Student Login: Able the students to login to system with a valid user name and password. If student is successfully login to system, he/she will have access to following pages: 
-• Student Home: Which have information about Online MCQ Quiz and issues support by this system for students; 
-• Attempt Test: Which able the student to select a particular test for attempting from the existing test in system from drop down list and after clicking on ‘go to 
+• Index: Which allow users to select their type of login to system; <br>
+• Teacher Login: Able the teachers to login to system with a valid user name and password. If a teacher is successfully login to system, he/she will have access to following pages: <br>
+• Teacher Home: Which have information about Online MCQ Quiz and issues support by this system for the teachers; <br>
+• Punch Test: Which able the teacher to punch a test and after entering the test name and clicking on ‘Submit to Enter Questions’, teacher will be able to add questions to the particular test. <br>
+• Students Marks: Which able the teacher to observe the result of all student who have attempt the tests; <br>
+• Student Login: Able the students to login to system with a valid user name and password. If student is successfully login to system, he/she will have access to following pages: <br>
+• Student Home: Which have information about Online MCQ Quiz and issues support by this system for students; <br>
+• Attempt Test: Which able the student to select a particular test for attempting from the existing test in system from drop down list and after clicking on ‘go to <br>
 
 Selected test’, the questions of selected test will be displayed for the student to attempt. Then the student will be able to attempt the questions and after submitting, the student will receive a message that the test successfully attempts. 
 
-	Marks: Which able the particular students to have access to the result of the test which he/she attempt. 
+ Marks: Which able the particular students to have access to the result of the test which he/she attempt. 
 
 
 **[⬆ Back to Index](#index)**
@@ -133,20 +131,20 @@ Selected test’, the questions of selected test will be displayed for the stude
 
 The whole process of assigning test and evaluating their score after the test, was done manually till date. Processing the test paper i.e. checking and distributing the respective scores used to take time when the software was not installed. 
 
-Disadvantages of Current system: 
-• The current system very time consuming. 
-• It is very difficult to analyze the exam manually. 
-• To take exam of more candidates more invigilators are required but no need of invigilator in case of on-line exam. 
-• Results are not precise as calculation and evaluations are done manually. 
+Disadvantages of Current system: <br>
+• The current system very time consuming. <br>
+• It is very difficult to analyze the exam manually. <br>
+• To take exam of more candidates more invigilators are required but no need of invigilator in case of on-line exam. <br>
+• Results are not precise as calculation and evaluations are done manually. <br><br>
 
-Characteristics of the proposed system: 
+Characteristics of the proposed system: <br>
 
-The project created for taking online quiz has following features: 
-• In comparison to the present system the proposed system will be less time consuming and is more efficient. 
-• Analysis will be very easy in proposed system as it is automated. 
-• Result will be very precise and accurate and will be declared in very short span of time because calculation and evaluations are done by the simulator itself. 
-• The proposed system is very secure as no chances of leakage of question paper as it is dependent on the administrator only. 
-• The logs of appeared candidates and their marks are stored and can be backup for future use. 
+The project created for taking online quiz has following features: <br>
+• In comparison to the present system the proposed system will be less time consuming and is more efficient. <br>
+• Analysis will be very easy in proposed system as it is automated. <br>
+• Result will be very precise and accurate and will be declared in very short span of time because calculation and evaluations are done by the simulator itself. <br>
+• The proposed system is very secure as no chances of leakage of question paper as it is dependent on the administrator only. <br>
+• The logs of appeared candidates and their marks are stored and can be backup for future use. <br>
 
 
 **[⬆ Back to Index](#index)**
@@ -205,11 +203,11 @@ PARTICIPANTS {Answer, Scores}
 
 ### Requirement Analysis 
 
-The fundamental idea behind our project is to make a product that would offer new aspects of learning. We wanted to create a tool that fits into modern age, but still stays true to the concepts of studying. During development, we worked out on some points, given as follows. 
-•	The provided platform should be user-friendly,
-•	The platform should be highly interactive,
-•	Both user and quiz master could easily get the student ranking and score sheet,
-•	A portal should be created where one can his/her feedback for further improvements.
+The fundamental idea behind our project is to make a product that would offer new aspects of learning. We wanted to create a tool that fits into modern age, but still stays true to the concepts of studying. During development, we worked out on some points, given as follows. <br>
+•	The provided platform should be user-friendly,<br>
+•	The platform should be highly interactive,<br>
+•	Both user and quiz master could easily get the student ranking and score sheet,<br>
+•	A portal should be created where one can his/her feedback for further improvements.<br>
 
 Questionnaire’s main objective is to efficiently evaluate the candidate thoroughly through a fully automated system that not only saves lot of time but also gives fast results.
 For students they give papers according to their convenience and time and there is no need of using extra thing like paper, pen etc.
@@ -219,10 +217,10 @@ For students they give papers according to their convenience and time and there 
 
 ### Features of Proposed System 
 
-•	To make the site more enjoyable and to get a measure of the learning achieved we are going to make an interactive quiz for each section. Users of the site can use the quizzes to test the knowledge gained in a section they have worked through.
-•	The first thing we need to decide upon is the sort of quiz required and how many answers are required per question. Parsing answers from users could be an extremely difficult process and having to deal with multiple correct answers to questions can also lead to complications. We want the quizzes to be easily understood by our users and also easy to code. This also helps with writing the Project itself as the main purpose of the Project and indeed the site in general is to learn client side disciplines. So to make the quiz as easy as possible we will choose a multiple choice quiz with one correct answer per question.
-•	We will use HTML for the structure, CSS for the presentation and JavaScript/jQuery for the behaviour. These versions of the aforementioned disciplines work in all modern browsers so we don't have to worry about things not working in certain browsers.
-•	We will start with a simple three question quiz where feedback of 'right' or 'wrong' is given for each answer at the end of the quiz. We will use a basic progress bar so the user can see visible feedback of how much of the quiz has been completed thus far.
+•	To make the site more enjoyable and to get a measure of the learning achieved we are going to make an interactive quiz for each section. Users of the site can use the quizzes to test the knowledge gained in a section they have worked through.<br>
+•	The first thing we need to decide upon is the sort of quiz required and how many answers are required per question. Parsing answers from users could be an extremely difficult process and having to deal with multiple correct answers to questions can also lead to complications. We want the quizzes to be easily understood by our users and also easy to code. This also helps with writing the Project itself as the main purpose of the Project and indeed the site in general is to learn client side disciplines. So to make the quiz as easy as possible we will choose a multiple choice quiz with one correct answer per question.<br>
+•	We will use HTML for the structure, CSS for the presentation and JavaScript/jQuery for the behaviour. These versions of the aforementioned disciplines work in all modern browsers so we don't have to worry about things not working in certain browsers.<br>
+•	We will start with a simple three question quiz where feedback of 'right' or 'wrong' is given for each answer at the end of the quiz. We will use a basic progress bar so the user can see visible feedback of how much of the quiz has been completed thus far.<br>
 •	We don't just want a top down list of questions and answers so we need a way to display one question and the possible answers for the question one at a time.
 
 **[⬆ Back to Index](#index)**
@@ -230,15 +228,15 @@ For students they give papers according to their convenience and time and there 
 
 ### Technologies Used 
 
-	FRONT-END
-•	HTML5- HTML5 is a markup language used for structuring and presenting content on the World Wide Web. It is the fifth and latest major version of HTML that is a World Wide Web Consortium (W3C) recommendation.
-•	CSS- Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language like HTML. CSS is designed to enable the separation of presentation and content, including layout, colors, and fonts. CSS information can be provided from various sources. These sources can be the web browser, the user and the author. 
-•	JavaScript- JavaScript s a high-level, interpreted scripting language that conforms to the ECMAScript specification. JavaScript has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions. Alongside HTML and CSS, JavaScript is one of the core technologies of the World Wide Web. JavaScript enables interactive web pages and is an essential part of web applications.
+	FRONT-END<br>
+•	HTML5- HTML5 is a markup language used for structuring and presenting content on the World Wide Web. It is the fifth and latest major version of HTML that is a World Wide Web Consortium (W3C) recommendation.<br>
+•	CSS- Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language like HTML. CSS is designed to enable the separation of presentation and content, including layout, colors, and fonts. CSS information can be provided from various sources. These sources can be the web browser, the user and the author. <br>
+•	JavaScript- JavaScript s a high-level, interpreted scripting language that conforms to the ECMAScript specification. JavaScript has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions. Alongside HTML and CSS, JavaScript is one of the core technologies of the World Wide Web. JavaScript enables interactive web pages and is an essential part of web applications.<br>
 
 
-	BACK-END
-•	PHP- PHP is a server side scripting language that is used to develop Static websites or Dynamic websites or Web applications. PHP stands for Hypertext Pre-processor, that earlier stood for Personal Home Pages. Hypertext Preprocessor (or simply PHP) is a general-purpose programming language originally designed for web development.
-•	MySQl- MySQL is an open source relational database management system (RDBMS) based on Structured Query Language (SQL). Currently My SQL is owned by Oracle. My SQL database is available on most important OS platforms. 
+	BACK-END<br>
+•	PHP- PHP is a server side scripting language that is used to develop Static websites or Dynamic websites or Web applications. PHP stands for Hypertext Pre-processor, that earlier stood for Personal Home Pages. Hypertext Preprocessor (or simply PHP) is a general-purpose programming language originally designed for web development.<br>
+•	MySQl- MySQL is an open source relational database management system (RDBMS) based on Structured Query Language (SQL). Currently My SQL is owned by Oracle. My SQL database is available on most important OS platforms. <br>
 
 
 **[⬆ Back to Index](#index)**
@@ -246,30 +244,30 @@ For students they give papers according to their convenience and time and there 
 
 ### Module Description 
 
-This project involves following phases
-ADMINISTRATOR
-AUTHENTICATION:
-            This proposed system is completely authenticated in order to enhance security and corruptions of database as well as the software. A person is given access permission to this system when he/she has got a valid username and password i.e. the administrator. Hence this authentication module includes two fields where administrator (programmer) is asked to enter the username and password. The details include:
-•	Username
-•	Password
-QUESTION GENERATION:
-            This   includes the various categorized question generation. In this   the administrator can perform add, modify, delete, move next, move previous, clear all operation. This   may be the most important   in proposed system, because it is the one where the entire system gets the categorized question.
-REPORT GENERATION:
-            This    contains various report generation related to our system such as Administrator report, Participant report, rank etc. the report gives the overall view about our system.
+This project involves following phases<br>
+ADMINISTRATOR<br>
+AUTHENTICATION:<br>
+            This proposed system is completely authenticated in order to enhance security and corruptions of database as well as the software. A person is given access permission to this system when he/she has got a valid username and password i.e. the administrator. Hence this authentication module includes two fields where administrator (programmer) is asked to enter the username and password. The details include:<br>
+•	Username<br>
+•	Password<br>
+QUESTION GENERATION:<br>
+            This   includes the various categorized question generation. In this   the administrator can perform add, modify, delete, move next, move previous, clear all operation. This   may be the most important   in proposed system, because it is the one where the entire system gets the categorized question.<br>
+REPORT GENERATION:<br>
+            This    contains various report generation related to our system such as Administrator report, Participant report, rank etc. the report gives the overall view about our system.<br>
 
-PARTICIPANT
-AUTHENTICATION:
-            This proposed system is completely authenticated in order to enhance security and corruptions of database as well as the software. A person is given access permission to this system when he/she has got a valid username and password. Hence this authentication module includes two fields where participant is asked to enter their username and password. The details include:
-•	Username
-•	Password
-REGISTRATION:
-            If the participant is an existing user then he can enter into the system, using his valid username and password.
-            If the participant is a new one then he has to fill the registration form. Now valid username and password will assign to the user. Using that he can enter into the system.
-RULES AND CATEGORY SELECTION:
-            This   provides the students with a set of rules and regulations to be followed while attending the quiz. It is useful for the user who is new to the online process so that they can have a clear idea of what has to be done. 
-•	QUESTION BANK:
-            This   provides the students a set of multiple-choice questions and a set of 
-RESULT GENERATION:
+PARTICIPANT<br>
+AUTHENTICATION:<br>
+            This proposed system is completely authenticated in order to enhance security and corruptions of database as well as the software. A person is given access permission to this system when he/she has got a valid username and password. Hence this authentication module includes two fields where participant is asked to enter their username and password. The details include:<br>
+•	Username<br>
+•	Password<br>
+REGISTRATION:<br>
+            If the participant is an existing user then he can enter into the system, using his valid username and password.<br>
+            If the participant is a new one then he has to fill the registration form. Now valid username and password will assign to the user. Using that he can enter into the system.<br>
+RULES AND CATEGORY SELECTION:<br>
+            This   provides the students with a set of rules and regulations to be followed while attending the quiz. It is useful for the user who is new to the online process so that they can have a clear idea of what has to be done. <br>
+•	QUESTION BANK:<br>
+            This   provides the students a set of multiple-choice questions and a set of <br>
+RESULT GENERATION:<br>
             The result of the corresponding student is generated based on his, her performance in the test. The result is generated at the end of the quiz. 
 
 **[⬆ Back to Index](#index)**
@@ -277,12 +275,12 @@ RESULT GENERATION:
 
 ### Scope of Development 
 
-•	The main aim of our project is creating a good interaction between the student and teacher.
-•	We are trying to do the project at best level to satisfy all the end users (i.e., student/faculty).
-•	In our future we are decided to provide more security to our website which may not be hacked.
-•	And we give the choice to student to add their name under the faculty who they wish and get advice for their betterment.
-•	It will be more empowering.
-•	Next, we are aiming to provide some online classes in to our website.
+•	The main aim of our project is creating a good interaction between the student and teacher.<br>
+•	We are trying to do the project at best level to satisfy all the end users (i.e., student/faculty).<br>
+•	In our future we are decided to provide more security to our website which may not be hacked.<br>
+•	And we give the choice to student to add their name under the faculty who they wish and get advice for their betterment.<br>
+•	It will be more empowering.<br>
+•	Next, we are aiming to provide some online classes in to our website.<br>
 
 
 **[⬆ Back to Index](#index)**
