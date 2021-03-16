@@ -45,14 +45,14 @@ The ‘QUESTIONNAIRE’ project was developed to overcome the time-consuming pro
 ### Objective
 The basic objective of this project is to manage the details of students, examinations, marks, courses and papers in a good manner. The performance of the application will be fully control by administrator and administrator can guaranty any one to access. The project will reduce the manual process in managing examinations and all issues regarding that. 
 
-Scope <br>
+Scope -
 Scope of this project is very broad in terms of other manually taking exams. <br>
 Few of them are: - <br>
 • This can be used in educational institutions as well as in corporate world. <br>
 • Can be used anywhere any time as it is a web-based application (user Location doesn’t matter). <br>
 • No restriction that examiner has to be present when the candidate takes the test. <br>
 <br>
-Features <br>
+Features -
 • Secure <br>
 • Easy to use <br>
 • Reliable and accurate <br>
@@ -132,12 +132,13 @@ Selected test’, the questions of selected test will be displayed for the stude
 The whole process of assigning test and evaluating their score after the test, was done manually till date. Processing the test paper i.e. checking and distributing the respective scores used to take time when the software was not installed. 
 
 Disadvantages of Current system: <br>
+
 • The current system very time consuming. <br>
 • It is very difficult to analyze the exam manually. <br>
 • To take exam of more candidates more invigilators are required but no need of invigilator in case of on-line exam. <br>
 • Results are not precise as calculation and evaluations are done manually. <br><br>
 
-Characteristics of the proposed system: <br>
+Characteristics of the proposed system->  <br>
 
 The project created for taking online quiz has following features: <br>
 • In comparison to the present system the proposed system will be less time consuming and is more efficient. <br>
@@ -192,10 +193,10 @@ This diagram denotes that user can register, login, view quiz, add quiz, submit 
 
 <img src="https://user-images.githubusercontent.com/54352598/111308238-701fcc00-8680-11eb-8f76-f699b38b14e0.png" alt=" ER Diagram "  width="500" height="400">
 
-We wish to convey the following Database design:
-ADMIN {Login, Update_Details, Password, Quiz_Details, Edit_Quiz}
-QUIZ MASTER {Create_Quiz, Start_Quiz}
-PARTICIPANTS {Answer, Scores}
+We wish to convey the following Database design:<br>
+ADMIN {Login, Update_Details, Password, Quiz_Details, Edit_Quiz}<br>
+QUIZ MASTER {Create_Quiz, Start_Quiz}<br>
+PARTICIPANTS {Answer, Scores}<br>
 
 
 **[⬆ Back to Index](#index)**
@@ -203,7 +204,7 @@ PARTICIPANTS {Answer, Scores}
 
 ### Requirement Analysis 
 
-The fundamental idea behind our project is to make a product that would offer new aspects of learning. We wanted to create a tool that fits into modern age, but still stays true to the concepts of studying. During development, we worked out on some points, given as follows. <br>
+The fundamental idea behind our project is to make a product that would offer new aspects of learning. We wanted to create a tool that fits into modern age, but still stays true to the concepts of studying. During development, we worked out on some points, given as follows: <br>
 •	The provided platform should be user-friendly,<br>
 •	The platform should be highly interactive,<br>
 •	Both user and quiz master could easily get the student ranking and score sheet,<br>
@@ -228,13 +229,13 @@ For students they give papers according to their convenience and time and there 
 
 ### Technologies Used 
 
-	FRONT-END<br>
+➢	FRONT-END<br><br>
 •	HTML5- HTML5 is a markup language used for structuring and presenting content on the World Wide Web. It is the fifth and latest major version of HTML that is a World Wide Web Consortium (W3C) recommendation.<br>
 •	CSS- Cascading Style Sheets (CSS) is a style sheet language used for describing the presentation of a document written in a markup language like HTML. CSS is designed to enable the separation of presentation and content, including layout, colors, and fonts. CSS information can be provided from various sources. These sources can be the web browser, the user and the author. <br>
 •	JavaScript- JavaScript s a high-level, interpreted scripting language that conforms to the ECMAScript specification. JavaScript has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions. Alongside HTML and CSS, JavaScript is one of the core technologies of the World Wide Web. JavaScript enables interactive web pages and is an essential part of web applications.<br>
 
 
-	BACK-END<br>
+➢	BACK-END<br><br>
 •	PHP- PHP is a server side scripting language that is used to develop Static websites or Dynamic websites or Web applications. PHP stands for Hypertext Pre-processor, that earlier stood for Personal Home Pages. Hypertext Preprocessor (or simply PHP) is a general-purpose programming language originally designed for web development.<br>
 •	MySQl- MySQL is an open source relational database management system (RDBMS) based on Structured Query Language (SQL). Currently My SQL is owned by Oracle. My SQL database is available on most important OS platforms. <br>
 
@@ -244,29 +245,27 @@ For students they give papers according to their convenience and time and there 
 
 ### Module Description 
 
-This project involves following phases<br>
-ADMINISTRATOR<br>
-AUTHENTICATION:<br>
+This project involves following phases:<br><br>
+ADMINISTRATOR AUTHENTICATION:<br>
             This proposed system is completely authenticated in order to enhance security and corruptions of database as well as the software. A person is given access permission to this system when he/she has got a valid username and password i.e. the administrator. Hence this authentication module includes two fields where administrator (programmer) is asked to enter the username and password. The details include:<br>
 •	Username<br>
-•	Password<br>
+•	Password<br><br>
 QUESTION GENERATION:<br>
-            This   includes the various categorized question generation. In this   the administrator can perform add, modify, delete, move next, move previous, clear all operation. This   may be the most important   in proposed system, because it is the one where the entire system gets the categorized question.<br>
+            This   includes the various categorized question generation. In this   the administrator can perform add, modify, delete, move next, move previous, clear all operation. This   may be the most important   in proposed system, because it is the one where the entire system gets the categorized question.<br><br>
 REPORT GENERATION:<br>
             This    contains various report generation related to our system such as Administrator report, Participant report, rank etc. the report gives the overall view about our system.<br>
 
-PARTICIPANT<br>
-AUTHENTICATION:<br>
+PARTICIPANT AUTHENTICATION:<br>
             This proposed system is completely authenticated in order to enhance security and corruptions of database as well as the software. A person is given access permission to this system when he/she has got a valid username and password. Hence this authentication module includes two fields where participant is asked to enter their username and password. The details include:<br>
 •	Username<br>
-•	Password<br>
+•	Password<br><br>
 REGISTRATION:<br>
-            If the participant is an existing user then he can enter into the system, using his valid username and password.<br>
-            If the participant is a new one then he has to fill the registration form. Now valid username and password will assign to the user. Using that he can enter into the system.<br>
+          ➢  If the participant is an existing user then he can enter into the system, using his valid username and password.<br>
+          ➢ If the participant is a new one then he has to fill the registration form. Now valid username and password will assign to the user. Using that he can enter into the system.<br><br>
 RULES AND CATEGORY SELECTION:<br>
-            This   provides the students with a set of rules and regulations to be followed while attending the quiz. It is useful for the user who is new to the online process so that they can have a clear idea of what has to be done. <br>
+            This   provides the students with a set of rules and regulations to be followed while attending the quiz. It is useful for the user who is new to the online process so that they can have a clear idea of what has to be done. <br><br>
 •	QUESTION BANK:<br>
-            This   provides the students a set of multiple-choice questions and a set of <br>
+            This   provides the students a set of multiple-choice questions<br><br>
 RESULT GENERATION:<br>
             The result of the corresponding student is generated based on his, her performance in the test. The result is generated at the end of the quiz. 
 
