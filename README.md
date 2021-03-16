@@ -3,4 +3,4 @@ The ‘QUESTIONNAIRE’ project was developed to overcome the time-consuming pro
 
 Questionnaire Demo
 -------------------------------------------------------------------------------------------
-![Questionnaire Demo](https://drive.google.com/file/d/1wJhDRSVw5mVA3huoyHZOJiHyR9rNf1Ea/view?usp=sharing/demo.gif)
+![Questionnaire Demo](https://drive.google.com/file/d/1wJhDRSVw5mVA3huoyHZOJiHyR9rNf1Ea/view?usp=sharing)
