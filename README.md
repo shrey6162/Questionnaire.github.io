@@ -45,20 +45,19 @@ The ‘QUESTIONNAIRE’ project was developed to overcome the time-consuming pro
 ### Objective
 The basic objective of this project is to manage the details of students, examinations, marks, courses and papers in a good manner. The performance of the application will be fully control by administrator and administrator can guaranty any one to access. The project will reduce the manual process in managing examinations and all issues regarding that. 
 
-Scope -
-Scope of this project is very broad in terms of other manually taking exams. <br>
-Few of them are: - <br>
+➢Scope -
+Scope of this project is very broad in terms of other manually taking exams, few of them are: - <br>
 • This can be used in educational institutions as well as in corporate world. <br>
 • Can be used anywhere any time as it is a web-based application (user Location doesn’t matter). <br>
 • No restriction that examiner has to be present when the candidate takes the test. <br>
 <br>
-Features -
+➢Features -<br>
 • Secure <br>
 • Easy to use <br>
 • Reliable and accurate <br>
 • No need of examiner <br><br>
 
-Functionalities of the project will be as following: <br>
+➢Functionalities of the project will be as following: <br>
 • Able the examiners to punch the MCQ questions online; <br>
 • Able the users to solve the questions online; <br>
 • Examiners can manage the information regarding exam; <br>
@@ -95,17 +94,15 @@ The Questionnaire created for taking online quizzes has following stages-
 To conclude introduction, we have used these modules to follow the objectives of our project and each of these modules have logical connections to other modules which they are depend. 
 
 • Index: Which allow users to select their type of login to system; <br>
-• Teacher Login: Able the teachers to login to system with a valid user name and password. If a teacher is successfully login to system, he/she will have access to following pages: <br>
+• Teacher Login: Able the teachers to login to system with a valid user name and password. If a teacher is successfully login to system, he/she will have access to following pages; <br>
 • Teacher Home: Which have information about Online MCQ Quiz and issues support by this system for the teachers; <br>
-• Punch Test: Which able the teacher to punch a test and after entering the test name and clicking on ‘Submit to Enter Questions’, teacher will be able to add questions to the particular test. <br>
+• Punch Test: Which able the teacher to punch a test and after entering the test name and clicking on ‘Submit to Enter Questions’, teacher will be able to add questions to the particular test; <br>
 • Students Marks: Which able the teacher to observe the result of all student who have attempt the tests; <br>
-• Student Login: Able the students to login to system with a valid user name and password. If student is successfully login to system, he/she will have access to following pages: <br>
+• Student Login: Able the students to login to system with a valid user name and password. If student is successfully login to system, he/she will have access to following pages; <br>
 • Student Home: Which have information about Online MCQ Quiz and issues support by this system for students; <br>
-• Attempt Test: Which able the student to select a particular test for attempting from the existing test in system from drop down list and after clicking on ‘go to <br>
-
-Selected test’, the questions of selected test will be displayed for the student to attempt. Then the student will be able to attempt the questions and after submitting, the student will receive a message that the test successfully attempts. 
-
- Marks: Which able the particular students to have access to the result of the test which he/she attempt. 
+• Attempt Test: Which able the student to select a particular test for attempting from the existing test in system from drop down list and after clicking on ‘go to Selected test’, the questions of selected test will be displayed for the student to attempt. Then the student will be able to attempt the questions and after submitting, the student will receive a message that the test successfully attempts. 
+<br>
+➢ Marks: Which able the particular students to have access to the result of the test which he/she attempt. 
 
 
 **[⬆ Back to Index](#index)**
