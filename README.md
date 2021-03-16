@@ -4,5 +4,7 @@ The ‘QUESTIONNAIRE’ project was developed to overcome the time-consuming pro
 Questionnaire Demo
 ---------------------------------------------------------------------------------------------------------------------------------
 ![Questionnaire](https://user-images.githubusercontent.com/54352598/111281347-d85fb500-8662-11eb-8828-ceb7fea66580.gif)
+---------------------------------------------------------------------------------------------------------------------------------
+[Project Report (Qustionnaire)](https://github.com/shrey6162/Questionnaire.github.io/files/6147387/Minor.Project.Report.Group49.Qustionnaire.pdf)
 
 
