@@ -1,3 +1,4 @@
+![Test library workflow status](https://github.com/shrey6162/Questionnaire.github.io/workflows/Test%20library/badge.svg)
 # Questionnaire
 The ‘QUESTIONNAIRE’ project was developed to overcome the time-consuming problem of the manual system. Apart from that in the current system, checking the answer sheets after taking a test, waste the examiner's time, so this application will check the correct answer and save the examiner's time and carry the examination effectively. The users which are using this system don’t need high computing knowledge and also the system will inform them while entering invalid data. The aim of this project is to computerized the existing manual system and help the examiners to save their valuable time and important data. Apart from this, data which are exist in this system, will exist for long period of time and will be easy accessible. This project helps the examiners to manage their services in a good way and provide a better service to their users.
 
@@ -42,35 +43,29 @@ The ‘QUESTIONNAIRE’ project was developed to overcome the time-consuming pro
 
 
 ### Objective
-
+<p>
 The basic objective of this project is to manage the details of students, examinations, marks, courses and papers in a good manner. The performance of the application will be fully control by administrator and administrator can guaranty any one to access. The project will reduce the manual process in managing examinations and all issues regarding that. 
 
 Scope 
 Scope of this project is very broad in terms of other manually taking exams. 
 Few of them are: - 
-•	• This can be used in educational institutions as well as in corporate 
-
-world. 
-•	• Can be used anywhere any time as it is a web-based application (user 
-
-Location doesn’t matter). 
-•	• No restriction that examiner has to be present when the candidate 
-
-takes the test. 
+• This can be used in educational institutions as well as in corporate world. 
+• Can be used anywhere any time as it is a web-based application (user Location doesn’t matter). 
+• No restriction that examiner has to be present when the candidate takes the test. 
 
 Features 
-•	• Secure 
-•	• Easy to use 
-•	• Reliable and accurate 
-•	• No need of examiner 
+• Secure 
+• Easy to use 
+• Reliable and accurate 
+• No need of examiner 
 
 Functionalities of the project will be as following: 
-•	• Able the examiners to punch the MCQ questions online; 
-•	• Able the users to solve the questions online; 
-•	• Examiners can manage the information regarding exam; 
-•	• Correct answer will be evaluated by the system (First it should be determined by examiner) 
-•	• Users can see their result after submitting the test. 
-
+• Able the examiners to punch the MCQ questions online; 
+• Able the users to solve the questions online; 
+• Examiners can manage the information regarding exam; 
+• Correct answer will be evaluated by the system (First it should be determined by examiner) 
+• Users can see their result after submitting the test. 
+</p>
 
 **[⬆ Back to Index](#index)**
 
@@ -163,7 +158,7 @@ Modified Waterfall Model
 
 The modified waterfall model uses the same s as the pure waterfall model. In response to the perceived problems with the pure waterfall model, modified waterfall model have been introduced. This enables the s to overlap when needed. This is selected because our requirements for the projects were clear, it is a small project and hence can be implemented step by step.
 
-<img src="https://user-images.githubusercontent.com/54352598/111307224-24205780-867f-11eb-837e-653bd8aa89e9.png" alt="Waterfall Model" width="120" height="100">
+<img src="https://user-images.githubusercontent.com/54352598/111307224-24205780-867f-11eb-837e-653bd8aa89e9.png"  align="center" alt="Waterfall Model" width="500" height="400">
 
 
 **[⬆ Back to Index](#index)**
@@ -171,7 +166,7 @@ The modified waterfall model uses the same s as the pure waterfall model. In res
 
 ### Used Case Diagram
 
-<img src="https://user-images.githubusercontent.com/54352598/111307518-92fdb080-867f-11eb-8087-767fc724196f.png" alt="Use Case Diagram" width="120" height="100">
+<img src="https://user-images.githubusercontent.com/54352598/111307518-92fdb080-867f-11eb-8087-767fc724196f.png" alt="Use Case Diagram" width="500" height="400">
 
 This diagram denotes that user can register, login, view quiz, add quiz, submit quiz, update his details, can check score sheet, and finally logout. 
 
@@ -180,16 +175,16 @@ This diagram denotes that user can register, login, view quiz, add quiz, submit 
 
 ### Activity Flow Diagram
 
-<img src="https://user-images.githubusercontent.com/54352598/111307756-e2dc7780-867f-11eb-8cba-e56501c195a4.png" alt=" Activity Flow Diagram " width="120" height="100">
+<img src="https://user-images.githubusercontent.com/54352598/111307756-e2dc7780-867f-11eb-8cba-e56501c195a4.png" alt=" Activity Flow Diagram "  width="500" height="400">
 
 •	ADMIN ACTIVITY DIAGRAM
 
-<img src="https://user-images.githubusercontent.com/54352598/111307953-1d461480-8680-11eb-8b84-c4c98eea2744.png" alt=" Activity Flow Diagram " width="120" height="100">
+<img src="https://user-images.githubusercontent.com/54352598/111307953-1d461480-8680-11eb-8b84-c4c98eea2744.png" alt=" Activity Flow Diagram "  width="500" height="400">
 
 
 •	USER ACTIVITY DIAGRAM
 
-<img src="https://user-images.githubusercontent.com/54352598/111308079-436bb480-8680-11eb-87db-69586fa859e7.png" alt=" Activity Flow Diagram " width="120" height="100">
+<img src="https://user-images.githubusercontent.com/54352598/111308079-436bb480-8680-11eb-87db-69586fa859e7.png" alt=" Activity Flow Diagram "  width="500" height="400">
 
 **[⬆ Back to Index](#index)**
 
@@ -197,7 +192,7 @@ This diagram denotes that user can register, login, view quiz, add quiz, submit 
 ### Entity Relationship Diagram 
 
 
-<img src="https://user-images.githubusercontent.com/54352598/111308238-701fcc00-8680-11eb-8f76-f699b38b14e0.png" alt=" ER Diagram " width="120" height="100">
+<img src="https://user-images.githubusercontent.com/54352598/111308238-701fcc00-8680-11eb-8f76-f699b38b14e0.png" alt=" ER Diagram "  width="500" height="400">
 
 We wish to convey the following Database design:
 ADMIN {Login, Update_Details, Password, Quiz_Details, Edit_Quiz}
