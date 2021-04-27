@@ -42,9 +42,41 @@ if(isset($_REQUEST['confirm']))
 
   <!-- Custom CSS -->
   <link rel="stylesheet" href="css/design.css">
-    <title>Questionnaire</title>
+    <title>Feedback</title>
 
-    
+    <style>
+      @media only screen and (min-width: 1080px){
+   .back-image{
+    background-image: url("image/feedback.jpg");
+   }
+   .container{
+    margin: 5%;
+    padding-top: 5px;
+    padding-bottom: 1px;
+   }
+    }
+/*tablet view styling*/
+    @media only screen and (max-width: 1080px){ 
+      .back-image{
+    background-image: url("image/feedbacktab.jpg");
+   }
+   .container{
+    margin-right: 18%;
+    margin-top: 12%;
+    padding-top: 2px;
+    padding-bottom: 1px;
+   }
+    }
+@media only screen and (max-width: 400px){
+    .back-image{
+    background-image: url("image/feedbackphone.jpg");
+   }
+   .container{
+    margin: 2%;
+    align-items: center;
+   }
+    }
+    </style>
 </head>
 <body>
     <nav class="navbar navbar-expand-md sticky-top " style="background-color: rgba(0, 0, 0, 0.6);" >

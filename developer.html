@@ -90,6 +90,28 @@
     width: 100%;
   }
 }
+@media only screen and (min-width: 1080px){
+   body{
+    background-image: url("image/developerweb.jpg");
+   }
+   .abc{
+    display: none;
+   }
+   .p-name,.p-des,.p-sm{
+      color: black;
+   }
+    }
+/*tablet view styling*/
+    @media only screen and (max-width: 1080px){ 
+      body{
+    background-image: url("image/tab1.jpg");
+   }
+    }
+@media only screen and (max-width: 400px){
+    body{
+    background-image: url("image/phone1.jpg");
+   }
+    }
 
   </style>
 
@@ -97,7 +119,7 @@
   <link rel="stylesheet" href="css/design.css">
     <title>Developer</title>
 </head>
-<body  style="background-image: url('image/c.png');">
+<body>
     <div class="bs-example">
     <nav class="navbar navbar-expand-md sticky-top" style="background-color: rgba(0, 0, 0, 0.6);" >
         <a href="#" class="navbar-brand" style="color: white; font-weight: bold; font-size: 25px;">Questionnaire</a>
@@ -118,8 +140,8 @@
 
 
 <div class="team-section">
-    <div class="inner-width">
-      <h1 style="color: white; font-weight: bold;">Meet Our Team</h1>
+    <div class="inner-width"><div class="abc">
+      <h1 style="color: white; font-weight: bold;">Meet Our Team</h1></div>
       <div class="pers">
 
 
