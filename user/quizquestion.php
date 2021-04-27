@@ -20,10 +20,10 @@ if($_GET['q']=='quizquestion.php')
          $_SESSION['total']=$total;
          echo' <form action="result.php?qid='.$qid.'&eid='.$eid.'" method="POST">';
          echo '<div class="card">
-             <div class="card-header"  style="background-color: #76448A;">
-                 <h4 style="color:white; font-weight:bold;">'.$c++. ' '.$qns.'</h4>
+             <div class="card-header"  style="background-color: #4d8c61;">
+                 <h4 style="color:white; font-weight:bold;">'.$c++. '. '.$qns.'</h4>
                  </div>
-                 <div class="card-body"  style="background-color: #D2B4DE;">';
+                 <div class="card-body"  style="background-color: #a4cdb1;">';
                   $sq=mysqli_query($conn,"select * from options where id='$qid'");
                   while($row1=mysqli_fetch_array($sq))
                   {

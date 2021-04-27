@@ -21,11 +21,29 @@
          color: #3a3a5c;
          background-color:rgba(0, 0, 0, 0.6); ;
      }
-    
+    @media only screen and (min-width: 1080px){
+   body{
+    background-image: url("../image/web.jpg");
+   }
+    }
+/*tablet view styling*/
+    @media only screen and (max-width: 1080px){ 
+      body{
+    background-image: url("../image/tab2.jpg");
+   }
+    }
+@media only screen and (max-width: 400px){
+    body{
+    background-image: url("../image/phone3.jpg");
+   }
+    }
+
+    </style>
+
     </style>
 
 </head>
-<body style="background-image: url('../image/c.png');">
+<body>
   <nav class="navbar navbar-expand-md sticky-top " style="background-color: rgba(0, 0, 0, 0.6);" >
         <a href="#" class="navbar-brand" style="color: white; font-weight: bold; font-size: 25px;">Questionnaire</a>
         <button type="button" class="navbar-toggler" data-toggle="collapse" data-target="#navbarCollapse" style="background-color: #F1F0FF; border-radius: 10px; height: 30px;">

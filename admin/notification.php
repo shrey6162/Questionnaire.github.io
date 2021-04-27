@@ -33,7 +33,7 @@ if(isset($_REQUEST['submit']))
 
 </script>
 <div class="offset-md-1 offset-sm-2 col-sm-6 col-md-7" id="gob">
-    <div class="col-md-7 col-sm-6 offset-md-3 text-white" style="background-color: rgba(0, 0, 0, 0.2);">
+    <div class="col-md-7 col-sm-6 offset-md-3 text-white" style="background-color: rgba(0, 0, 0, 0.2); padding-top: 5px;">
     <h2 class="text-center mt-3" style="color: white; font-weight: bold;">Enter new notifications</h2>
     <form action="" method="POST" class="p-3" id="myForm">
         <div class="form-group">

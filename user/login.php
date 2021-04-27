@@ -44,9 +44,26 @@ else{
   <link rel="stylesheet" href="../css/all.min.css">
 
     <title>Login</title>
-
+<style>
+    @media only screen and (min-width: 1080px){
+   body{
+    background-image: url("../image/web1.jpg");
+   }
+    }
+/*tablet view styling*/
+    @media only screen and (max-width: 1080px){ 
+      body{
+    background-image: url("../image/tab2.jpg");
+   }
+    }
+@media only screen and (max-width: 400px){
+    body{
+    background-image: url("../image/phone3.jpg");
+   }
+    }
+</style>
 </head>
-<body style="background-image: url('../image/c.png');">
+<body>
  <div class="text-center mt-5">
      <div style="color: white; font-weight: bold; font-size: 40px;">Login to Questionnaire</div>
 </div>

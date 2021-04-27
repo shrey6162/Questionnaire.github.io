@@ -1,4 +1,5 @@
 <?php
+ob_start();
 define('TITLE','quizquestion');
 define('page','quizquestion');
 include('includes/header.php');
@@ -45,6 +46,7 @@ if($_GET['q']=='quizquestion.php')
    </form> ';
      
 }
+ob_end_flush();
 ?>
 </div>
 

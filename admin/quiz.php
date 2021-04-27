@@ -1,4 +1,5 @@
 <?php
+ob_start();
 define('TITLE','quiz.php');
 define('page','quiz.php');
 include_once('../dbcon.php');
@@ -37,6 +38,7 @@ if($conn->query($sql) == TRUE)
                    }
      }
 }
+ob_end_flush();
 ?>
 
 </script>
