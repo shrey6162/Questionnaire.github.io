@@ -88,7 +88,9 @@
                         <li class="nav-item"> 
                             <a style="color: white" class="nav-link <?php if(page == 'history.php') { echo 'active'; } ?>" href="history.php"><i class="fas fa-history mr-2"></i>History</a></li>  
                         <li class="nav-item"> 
-                            <a style="color: white" class="nav-link <?php if(page == 'unotification.php') { echo 'active'; } ?>" href="unotification.php"><i class="fas fa-inbox mr-2"></i>Notice Board</a></li>   
+                            <a style="color: white" class="nav-link <?php if(page == 'unotification.php') { echo 'active'; } ?>" href="unotification.php"><i class="fas fa-inbox mr-2"></i>Notice Board</a></li> 
+                        <li class="nav-item"> 
+                            <a style="color: white" class="nav-link <?php if(page == 'umeeting.php') { echo 'active'; } ?>" href="umeeting.php"><i class="fas fa-video mr-2"></i>Meetings</a></li>   
                         <li class="nav-item"> <a style="color: white" class="nav-link" href="../logout.php"><i class="fas fa-sign-out-alt mr-2"></i>Logout</a></li>
                     </ul>
                 </div>
