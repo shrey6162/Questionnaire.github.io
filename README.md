@@ -249,19 +249,19 @@ For students they give papers according to their convenience and time and there 
 ### Module Description 
 
 This project involves following phases:<br><br>
-ADMINISTRATOR AUTHENTICATION:<br>
+<b>--> ADMINISTRATOR AUTHENTICATION:<br></b>
             This proposed system is completely authenticated in order to enhance security and corruptions of database as well as the software. A person is given access permission to this system when he/she has got a valid username and password i.e. the administrator. Hence this authentication module includes two fields where administrator (programmer) is asked to enter the username and password. The details include:<br>
 •	Username<br>
 •	Password<br><br>
 QUESTION GENERATION:<br>
             This includes the various categorized question generation. In this   the administrator can perform add, modify, delete, move next, move previous, clear all operation. This   may be the most important   in proposed system, because it is the one where the entire system gets the categorized question.<br><br>
 REPORT GENERATION:<br>
-            This contains various report generation related to our system such as Administrator report, Participant report, rank etc. the report gives the overall view about our system.<br>
+            This contains various report generation related to our system such as Administrator report, Participant report, rank etc. the report gives the overall view about our system.<br><br>
 NOTICE GENERATION:<br>
-            This contains a notice publishing module. From the admin can make new announcements or notices for the user/student.<br>
+            This contains a notice publishing module. From the admin can make new announcements or notices for the user/student.<br><br>
 MEET SCHEDULING:<br>
-            This contains a meet link publishing and instant meet start-up module. From here the admin or the teacher can take online live classes and share its joining link with the user/student.<br>
-PARTICIPANT AUTHENTICATION:<br>
+            This contains a meet link publishing and instant meet start-up module. From here the admin or the teacher can take online live classes and share its joining link with the user/student.<br><br><br>
+<b>--> PARTICIPANT AUTHENTICATION:<br></b>
             This proposed system is completely authenticated in order to enhance security and corruptions of database as well as the software. A person is given access permission to this system when he/she has got a valid username and password. Hence this authentication module includes two fields where participant is asked to enter their username and password. The details include:<br>
 •	Username<br>
 •	Password<br><br>
@@ -270,14 +270,14 @@ REGISTRATION:<br>
           ➢ If the participant is a new one then he has to fill the registration form. Now valid username and password will assign to the user. Using that he can enter into the system.<br><br>
 RULES AND CATEGORY SELECTION:<br>
             This   provides the students with a set of rules and regulations to be followed while attending the quiz. It is useful for the user who is new to the online process so that they can have a clear idea of what has to be done. <br><br>
-•	QUESTION BANK:<br>
+QUESTION BANK:<br>
             This   provides the students a set of multiple-choice questions<br><br>
 RESULT GENERATION:<br>
-            The result of the corresponding student is generated based on his, her performance in the test. The result is generated at the end of the quiz.<br>
+            The result of the corresponding student is generated based on his, her performance in the test. The result is generated at the end of the quiz.<br><br>
 NOTICE BOARD:<br>
-            All the new announcements and notices are published here from here the student can view and respond to them.<br>
+            All the new announcements and notices are published here from here the student can view and respond to them.<br><br>
 MEETING DESCRIPTION:<br>
-            It displays list of all the upcoming meeting/classes with their joining link and details of their schedule.<br>
+            It displays list of all the upcoming meeting/classes with their joining link and details of their schedule.<br><br>
 
 
 **[⬆ Back to Index](#index)**
