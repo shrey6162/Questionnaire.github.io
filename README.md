@@ -215,11 +215,17 @@ For students they give papers according to their convenience and time and there 
 
 ### Features of Proposed System 
 
-•	To make the site more enjoyable and to get a measure of the learning achieved we are going to make an interactive quiz for each section. Users of the site can use the quizzes to test the knowledge gained in a section they have worked through.<br>
-•	The first thing we need to decide upon is the sort of quiz required and how many answers are required per question. Parsing answers from users could be an extremely difficult process and having to deal with multiple correct answers to questions can also lead to complications. We want the quizzes to be easily understood by our users and also easy to code. This also helps with writing the Project itself as the main purpose of the Project and indeed the site in general is to learn client side disciplines. So to make the quiz as easy as possible we will choose a multiple choice quiz with one correct answer per question.<br>
-•	We will use HTML for the structure, CSS for the presentation and JavaScript/jQuery for the behaviour. These versions of the aforementioned disciplines work in all modern browsers so we don't have to worry about things not working in certain browsers.<br>
-•	We will start with a simple three question quiz where feedback of 'right' or 'wrong' is given for each answer at the end of the quiz. We will use a basic progress bar so the user can see visible feedback of how much of the quiz has been completed thus far.<br>
+•	To make the site more enjoyable and to get a measure of the learning achieved we are going to make an interactive quiz for each section. Users of the site can use the quizzes to test the knowledge gained in a section they have worked through.
+•	The first thing we need to decide upon is the sort of quiz required and how many answers are required per question. Parsing answers from users could be an extremely difficult process and having to deal with multiple correct answers to questions can also lead to complications. We want the quizzes to be easily understood by our users and also easy to code. This also helps with writing the Project itself as the main purpose of the Project and indeed the site in general is to learn client side disciplines. So to make the quiz as easy as possible we will choose a multiple choice quiz with one correct answer per question.
+•	We will use HTML for the structure, CSS for the presentation and JavaScript/query for the behavior. These versions of the aforementioned disciplines work in all modern browsers so we don't have to worry about things not working in certain browsers.
+•	We will start with a simple three question quiz where feedback of 'right' or 'wrong' is given for each answer at the end of the quiz. We will use a basic progress bar so the user can see visible feedback of how much of the quiz has been completed thus far.
 •	We don't just want a top down list of questions and answers so we need a way to display one question and the possible answers for the question one at a time.
+•	In our project there is notice board tab where admin can put notice for the student.
+•	Notice board can have details like exam time, exam date or any other important notice regarding the class.
+•	Student can join live classes as we have video call feature.
+•	We have used “jitsi” api to integrate video call function in our project.
+•	Students can have one to one interaction with their faculty to clarify doubts.
+
 
 **[⬆ Back to Index](#index)**
 
@@ -248,10 +254,13 @@ ADMINISTRATOR AUTHENTICATION:<br>
 •	Username<br>
 •	Password<br><br>
 QUESTION GENERATION:<br>
-            This   includes the various categorized question generation. In this   the administrator can perform add, modify, delete, move next, move previous, clear all operation. This   may be the most important   in proposed system, because it is the one where the entire system gets the categorized question.<br><br>
+            This includes the various categorized question generation. In this   the administrator can perform add, modify, delete, move next, move previous, clear all operation. This   may be the most important   in proposed system, because it is the one where the entire system gets the categorized question.<br><br>
 REPORT GENERATION:<br>
-            This    contains various report generation related to our system such as Administrator report, Participant report, rank etc. the report gives the overall view about our system.<br>
-
+            This contains various report generation related to our system such as Administrator report, Participant report, rank etc. the report gives the overall view about our system.<br>
+NOTICE GENERATION:<br>
+            This contains a notice publishing module. From the admin can make new announcements or notices for the user/student.
+MEET SCHEDULING:<br>
+            This contains a meet link publishing and instant meet start-up module. From here the admin or the teacher can take online live classes and share its joining link with the user/student.
 PARTICIPANT AUTHENTICATION:<br>
             This proposed system is completely authenticated in order to enhance security and corruptions of database as well as the software. A person is given access permission to this system when he/she has got a valid username and password. Hence this authentication module includes two fields where participant is asked to enter their username and password. The details include:<br>
 •	Username<br>
@@ -264,7 +273,12 @@ RULES AND CATEGORY SELECTION:<br>
 •	QUESTION BANK:<br>
             This   provides the students a set of multiple-choice questions<br><br>
 RESULT GENERATION:<br>
-            The result of the corresponding student is generated based on his, her performance in the test. The result is generated at the end of the quiz. 
+            The result of the corresponding student is generated based on his, her performance in the test. The result is generated at the end of the quiz.
+NOTICE BOARD:<br>
+            All the new announcements and notices are published here from here the student can view and respond to them.
+MEETING DESCRIPTION:<br>
+            It displays list of all the upcoming meeting/classes with their joining link and details of their schedule.
+
 
 **[⬆ Back to Index](#index)**
 
