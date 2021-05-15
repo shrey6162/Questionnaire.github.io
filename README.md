@@ -258,9 +258,9 @@ QUESTION GENERATION:<br>
 REPORT GENERATION:<br>
             This contains various report generation related to our system such as Administrator report, Participant report, rank etc. the report gives the overall view about our system.<br>
 NOTICE GENERATION:<br>
-            This contains a notice publishing module. From the admin can make new announcements or notices for the user/student.
+            This contains a notice publishing module. From the admin can make new announcements or notices for the user/student.<br>
 MEET SCHEDULING:<br>
-            This contains a meet link publishing and instant meet start-up module. From here the admin or the teacher can take online live classes and share its joining link with the user/student.
+            This contains a meet link publishing and instant meet start-up module. From here the admin or the teacher can take online live classes and share its joining link with the user/student.<br>
 PARTICIPANT AUTHENTICATION:<br>
             This proposed system is completely authenticated in order to enhance security and corruptions of database as well as the software. A person is given access permission to this system when he/she has got a valid username and password. Hence this authentication module includes two fields where participant is asked to enter their username and password. The details include:<br>
 •	Username<br>
@@ -273,11 +273,11 @@ RULES AND CATEGORY SELECTION:<br>
 •	QUESTION BANK:<br>
             This   provides the students a set of multiple-choice questions<br><br>
 RESULT GENERATION:<br>
-            The result of the corresponding student is generated based on his, her performance in the test. The result is generated at the end of the quiz.
+            The result of the corresponding student is generated based on his, her performance in the test. The result is generated at the end of the quiz.<br>
 NOTICE BOARD:<br>
-            All the new announcements and notices are published here from here the student can view and respond to them.
+            All the new announcements and notices are published here from here the student can view and respond to them.<br>
 MEETING DESCRIPTION:<br>
-            It displays list of all the upcoming meeting/classes with their joining link and details of their schedule.
+            It displays list of all the upcoming meeting/classes with their joining link and details of their schedule.<br>
 
 
 **[⬆ Back to Index](#index)**
