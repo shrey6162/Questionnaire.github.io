@@ -3,7 +3,7 @@ The ‘QUESTIONNAIRE’ project was developed to overcome the time-consuming pro
 
 <h2 align="center">Questionnaire Demo</h2>
 
-![Questionnaire](https://user-images.githubusercontent.com/54352598/111281347-d85fb500-8662-11eb-8828-ceb7fea66580.gif)
+![Questionnaire-Demo](https://user-images.githubusercontent.com/54352598/118469855-c2827500-b723-11eb-801f-d3a1ad58815e.gif)
 ---------------------------------------------------------------------------------------------------------------------------------
 
 <h2 align="center">Project Report</h2>
