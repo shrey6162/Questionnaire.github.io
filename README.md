@@ -6,6 +6,14 @@ The ‘QUESTIONNAIRE’ project was developed to overcome the time-consuming pro
 ![Questionnaire-Demo](https://user-images.githubusercontent.com/54352598/118469855-c2827500-b723-11eb-801f-d3a1ad58815e.gif)
 ---------------------------------------------------------------------------------------------------------------------------------
 
+## Meet our team
+
+- [@ShreyNigam](https://www.github.com/shrey6162)
+- [@ManavJain](https://github.com/manavj23)
+- [@ViditVikramSingh](https://github.com/vidsingh)
+
+  ---------------------------------------------------------------------------------------------------------------------------------
+
 <h2 align="center">Project Report</h2>
 
 ## Index
